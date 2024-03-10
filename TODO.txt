@@ -1,0 +1,15 @@
+1. File Folder Creation
+//mmodel is database collletion
+ 2. package installation{
+     ##basic package
+         #cors #express #jsonwebtoken #mongoose #nodemailer #nodemon #express-rate-limit
+
+       ##secuirty managemment package 
+          #helmet #  
+       } 
+
+3. App.js configuration     
+4. run the server 
+5.usermodel, taskmodel, otpmodel Creation
+6.Email utility
+7.user registation
